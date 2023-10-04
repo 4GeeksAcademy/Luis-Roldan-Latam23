@@ -6,6 +6,22 @@ body{
 
 }
 
+.fistHeading {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px; 
+}
+
+.services {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px; 
+}
+
 .portafolio {
     width: 80%;
     margin-left: auto;
@@ -13,6 +29,7 @@ body{
     margin-top: 60px;
     margin-bottom: 60px;
 }
+
 
 .card-title {
     color: #2C7CC1;
